@@ -1,1 +1,1 @@
-# azure-tokyo-olympic-project
+# Azure-tokyo-olympic-project
