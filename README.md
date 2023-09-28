@@ -23,5 +23,5 @@ I used the [2020 Olympics in Tokyo](https://olympics.com/en/olympic-games/tokyo-
 <img src="https://github.com/sneha-roseline/azure-tokyo-olympic-project/assets/146040464/b2200a3f-ca33-4d48-9d86-48486ed843fb" width="500" height="400"/> <img src="https://github.com/sneha-roseline/azure-tokyo-olympic-project/assets/146040464/2fee68fe-f2cc-46c5-92b9-d1fdce773c01" width="500" height="400"/>
 
 
-<img src="https://github.com/sneha-roseline/azure-tokyo-olympic-project/assets/146040464/34981d7c-18ab-4993-840d-b7ee7cb6d524" width="500"/> <img src="https://github.com/sneha-roseline/azure-tokyo-olympic-project/assets/146040464/f1bf1313-c37e-4661-a4b0-f170d8ff7119" width="500"/>
+<img src="https://github.com/sneha-roseline/azure-tokyo-olympic-project/assets/146040464/34981d7c-18ab-4993-840d-b7ee7cb6d524" width="425"/> <img src="https://github.com/sneha-roseline/azure-tokyo-olympic-project/assets/146040464/f1bf1313-c37e-4661-a4b0-f170d8ff7119" width="425"/>
 
